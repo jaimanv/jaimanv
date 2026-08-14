@@ -25,11 +25,14 @@ B.Tech CSE | full stack developer
 <td align="center" width="50%">
 <h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" alt="languages" />
 </td>
 
 <td align="center" width="50%">
 <h3>Frameworks and Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=express,fastapi,tailwind&theme=dark" alt="frameworks" />
+
 </td>
 </tr>
 
@@ -41,7 +44,7 @@ B.Tech CSE | full stack developer
 
 <td align="center" width="50%">
 <h3>Tools and Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,vite&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,postman,vercel,vite&theme=dark" alt="tools" />
 </td>
 </tr>
 
