@@ -2,13 +2,21 @@
 
 # Hi, I'm Jaiman Vaidya
 
-full-stack developer | cse student |<br/> building web applications and exploring modern technologies
-
 </div>
 
 ---
 
-## Technical Skills
+## About Me
+
+- CS guy Passionate about **Full Stack Development** and **AIML**
+- Working with **backend systems, APIs, databases, and product development**
+- Exploring Redis, Docker, Nginx, WebSockets, caching, and scalable backend architectures
+- Interested in turning ideas into products that people can actually use
+- Always building :D
+
+---
+
+## What I Work With
 
 <div align="center">
 <table>
@@ -54,45 +62,15 @@ full-stack developer | cse student |<br/> building web applications and explorin
 
 ---
 
-## Interests
-
-<div align="center">
-
-| Area | Focus |
-|------|-------|
-| Full-Stack Development | Building modern web applications and complete product experiences |
-| Backend Development | APIs, authentication and server-side applications |
-| Web Development | React, Next.js and modern frontend technologies |
-| Software Products | Turning ideas into practical applications |
-
-</div>
-
----
-
-## Currently Working On
-
-<div align="center">
-
-| Area | Technologies |
-|------|--------------|
-| Frontend Development | React, Next.js, Tailwind CSS |
-| Backend Development | Node.js, Express.js, FastAPI |
-| Database Systems | MongoDB, PostgreSQL, Prisma |
-| Full-Stack Applications | Next.js, Node.js, REST APIs |
-| Personal Projects | Building and experimenting with new product ideas |
-
-</div>
-
----
-
 ## Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Smart Financial OS** | Full-stack personal finance platform | Next.js, Node.js, Express.js, MongoDB |
-| **CashRadar** | Financial forecasting and analysis platform | React, Vite, Express.js, Prisma, FastAPI |
+| **Smart Financial OS** | Full-stack personal finance platform designed to bring financial management, tracking and insights into one place | Next.js, Node.js, Express.js, MongoDB |
+| **SafeScout** | Urban safety intelligence platform focused on understanding the safety of different areas | React, Node.js, Tailwind CSS |
+| **CashRadar** | Financial forecasting and analysis platform combining a web interface with backend services | React, Vite, Express.js, Prisma, FastAPI |
 
 </div>
 
