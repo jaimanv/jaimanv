@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi, I'm Jaiman Vaidya
+B.Tech CSE | full stack developer
 
 </div>
 
@@ -68,7 +69,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Smart Financial OS** | Full-stack personal finance platform designed to bring financial management, tracking and insights into one place | Next.js, Node.js, Express.js, MongoDB |
+| **Aurea One** | Full-stack personal finance platform designed to bring financial management, tracking and insights into one place | Next.js, Node.js, Express.js, MongoDB |
 | **SafeScout** | Urban safety intelligence platform focused on understanding the safety of different areas | React, Node.js, Tailwind CSS |
 | **CashRadar** | Financial forecasting and analysis platform combining a web interface with backend services | React, Vite, Express.js, Prisma, FastAPI |
 
