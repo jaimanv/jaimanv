@@ -45,19 +45,6 @@ B.Tech CSE | full stack developer
 </td>
 </tr>
 
-<tr>
-<td align="center" width="50%">
-<h3>Web Technologies</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" alt="web technologies" />
-</td>
-
-<td align="center" width="50%">
-<h3>Core Technologies</h3>
-<code>REST APIs</code> <code>JWT</code><br/><br/>
-<code>Object-Oriented Programming</code> <code>Git</code><br/><br/>
-<code>Full-Stack Development</code>
-</td>
-</tr>
 </table>
 </div>
 
