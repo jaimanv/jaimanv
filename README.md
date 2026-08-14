@@ -25,13 +25,13 @@ B.Tech CSE | full stack developer
 <td align="center" width="50%">
 <h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,py,java&theme=dark" alt="languages" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="languages" />
 </td>
 
 <td align="center" width="50%">
 <h3>Web Stack</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" alt="frameworks" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,tailwind&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" alt="frameworks" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=express,fastapi,tailwind&theme=dark" alt="frameworks" />
 
 </td>
 </tr>
