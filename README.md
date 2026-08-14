@@ -1,127 +1,247 @@
 <div align="center">
 
-# Hi, I'm Maharaj Jay 👑
+# Hi, I'm Jaiman Vaidya 👋
 
-CSE student | full-stack developer | DSA enthusiast |<br/>
-building practical software and solving real-world problems
+### Full-Stack Developer | Web3 Enthusiast | CSE Student
+
+Building web applications, exploring Web3, and turning ideas into products.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaimanv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimanv/)
+[![Email](https://img.shields.io/badge/Email-jaimanvaidya1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimanvaidya1@gmail.com)
 
 </div>
 
 ---
 
-## Technical Skills
+## 🧩 Tech Stack
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="50%">
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,sql&theme=dark" alt="languages" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,solidity&theme=dark" />
+
 </td>
+
 <td align="center" width="50%">
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" alt="frontend" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" />
+
 </td>
 </tr>
 
 <tr>
 <td align="center" width="50%">
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="backend" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
 </td>
+
 <td align="center" width="50%">
-<h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" alt="databases" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" />
+
 </td>
 </tr>
 
 <tr>
 <td align="center" width="50%">
-<h3>Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="tools" />
+
+### Web3
+
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" />
+
+<br/><br/>
+
+<code>Hardhat</code>&nbsp;&nbsp;
+<code>OpenZeppelin</code>
+
 </td>
+
 <td align="center" width="50%">
-<h3>Core Competencies</h3>
-<code>Data Structures</code> <code>Algorithms</code><br/><br/>
-<code>Problem Solving</code> <code>REST APIs</code><br/><br/>
-<code>Full-Stack Development</code> <code>OOP</code>
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
 
-## Development Focus
+## 🌐 What I'm Interested In
 
 <div align="center">
 
-| Area | Technologies / Skills |
-|------|------------------------|
-| **Programming** | C, C++, JavaScript, Python, SQL |
-| **Frontend** | React, Next.js, Tailwind CSS, Vite |
-| **Backend** | Node.js, Express.js, FastAPI |
-| **Databases** | MongoDB, PostgreSQL, Prisma |
-| **Authentication** | JWT |
-| **APIs** | REST APIs |
-| **Problem Solving** | DSA, LeetCode, Competitive Programming |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐 Full-Stack
+
+Modern web applications and complete product experiences
+
+</td>
+
+<td align="center" width="25%">
+
+### ⛓️ Web3
+
+Smart contracts, dApps and blockchain technology
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+APIs, authentication and server-side systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 💡 Products
+
+Building practical software around interesting ideas
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔨 What I'm Working On
+
+- 🚀 Building full-stack applications with **Next.js and Node.js**
+- ⚡ Creating modern interfaces with **React and Tailwind CSS**
+- 🔌 Developing backend services and **REST APIs**
+- 🗄️ Working with **MongoDB, PostgreSQL and Prisma**
+- ⛓️ Exploring **Smart Contracts and Web3 Applications**
+- 💡 Experimenting with new product ideas and technologies
+
+---
+
+## 📂 Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 💰 Smart Financial OS
+
+A full-stack personal finance platform designed to bring financial management, tracking and insights into one place.
+
+**Stack:**  
+Next.js · Node.js · Express.js · MongoDB · JWT
+
+</td>
+
+<td width="50%">
+
+### 🛡️ SafeScout
+
+An urban safety intelligence platform focused on helping users understand the safety of different areas.
+
+**Stack:**  
+React · Node.js · Tailwind CSS · APIs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ♻️ Ecovera
+
+A smart waste-rewards ecosystem designed around encouraging responsible waste disposal.
+
+**Stack:**  
+React · Node.js · MongoDB
+
+</td>
+
+<td width="50%">
+
+### 📊 CashRadar
+
+A financial forecasting and analysis platform combining a web interface with backend services for financial simulations.
+
+**Stack:**  
+React · Vite · Express.js · Prisma · FastAPI
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+| Category | Technologies |
+|:---:|:---|
+| **Languages** | C · C++ · JavaScript · Python · Solidity |
+| **Frontend** | HTML · CSS · React · Next.js · Tailwind CSS · Vite |
+| **Backend** | Node.js · Express.js · FastAPI · REST APIs |
+| **Databases** | MongoDB · PostgreSQL · Prisma |
+| **Web3** | Solidity · Hardhat · OpenZeppelin |
+| **Tools** | Git · GitHub · VS Code · Postman |
 | **Deployment** | Vercel |
-| **Version Control** | Git, GitHub |
 
 </div>
 
 ---
 
-## Projects
+## 📊 GitHub Activity
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Smart Financial OS** | Full-stack personal finance platform | Next.js, Node.js, Express, MongoDB |
-| **SafeScout** | Urban safety intelligence platform | React, Node.js, APIs |
-| **Ecovera** | Smart waste rewards system | React, Node.js, MongoDB |
-| **CashRadar** | Financial forecasting platform | React, Express, Prisma, FastAPI |
+<img src="https://github-readme-stats.vercel.app/api?username=jaimanv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimanv&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimanv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaimanv&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-## Currently Learning
+## 📫 Connect With Me
 
 <div align="center">
 
-`Data Structures & Algorithms` &nbsp; `C++` &nbsp; `React` &nbsp; `Next.js`  
-`Node.js` &nbsp; `Backend Development` &nbsp; `System Design` &nbsp; `LeetCode`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaimanv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimanv/)
 
-</div>
-
----
-
-## Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-jaimanvaidya1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimanvaidya1@gmail.com)
 
 </div>
 
@@ -129,6 +249,6 @@ building practical software and solving real-world problems
 
 <div align="center">
 
-### 💻 Build. Solve. Learn. Repeat. 🚀
+### Building. Experimenting. Shipping. 🚀
 
 </div>
