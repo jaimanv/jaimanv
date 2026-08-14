@@ -92,9 +92,7 @@ B.Tech CSE | full stack developer
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaimanv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimanv/)
-
 <br/>
-
 [![Email](https://img.shields.io/badge/Email-jaimanvaidya1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimanvaidya1@gmail.com)
 
 </div>
